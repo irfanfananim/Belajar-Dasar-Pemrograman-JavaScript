@@ -1,2 +1,2 @@
-# Belajar-Dasar-Pemrograman-JavaScript
+# Belajar Dasar Pemrograman JavaScript
 Catatan kuis dan submission untuk course Dicoding "Belajar Dasar Pemrograman JavaScript".
